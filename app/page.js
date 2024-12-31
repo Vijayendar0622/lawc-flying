@@ -1,5 +1,4 @@
 import React from "react";
-// If you're using shadcn/ui, you can import some components. Uncomment as needed:
 // import { Button } from "@/components/ui/button";
 // import { Input } from "@/components/ui/input";
 
